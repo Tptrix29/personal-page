@@ -35,13 +35,12 @@ export default ({
     top: 0px;
     left: 0px;
     right: 0px;
-    opacity: 90%;
+    opacity: 0.9;
     padding: 1% 0%;
     background-color: rgb(54, 50, 50);
     width: 100%;
     position: fixed;
     text-align: center;
-    visibility: visible;
 }
 
 #nav .block{
